@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Aditya-dev-star/main/dark.svg">
+    srcset="https://raw.githubusercontent.com/Aditya-dev-star/Aditya-dev-star/main/dark.svg">
 
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Aditya-dev-star/main/light.svg">
+    srcset="https://raw.githubusercontent.com/Aditya-dev-star/Aditya-dev-star/main/light.svg">
 
   <img alt="Aditya Singh"
-    src="https://raw.githubusercontent.com/Aditya-dev-star/main/light.svg">
+    src="https://raw.githubusercontent.com/Aditya-dev-star/Aditya-dev-star/main/light.svg">
 </picture>
